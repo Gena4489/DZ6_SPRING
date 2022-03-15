@@ -1,0 +1,13 @@
+package ru.vtb.dz6;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class Dz6SpringApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
